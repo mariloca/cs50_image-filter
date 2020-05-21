@@ -16,6 +16,7 @@ Filtering an image is like taking the pixels of some original image and modifyin
 - *filter.c: main file. 
 - *helpers.h: helper file provides function prototypes for the function I worked with. 
 - *Makefile: specifies what should happen when we run a terminal command. 
+- *images: contains sample '.bmp' images to test the program.
 - helpers.c: implementation of the functions declared in helpers.h.
 - *are files have been written by cs50.
 
