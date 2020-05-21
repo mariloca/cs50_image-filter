@@ -11,7 +11,7 @@ Filtering an image is like taking the pixels of some original image and modifyin
 4. Blur('b'): creates the effect of blurring or softening an image 
 5. Edges('e'): detects edges in an image and creates a boundary between one object and another
 
-### Instructions
+### Code Structure
 - *bmp.h : defines a struct called RGBTRIPLE which encapsulates three bytes: one blue, one green, one red. 
 - *filter.c: main file. 
 - *helpers.h: helper file provides function prototypes for the function I worked with. 
