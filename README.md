@@ -37,6 +37,6 @@ $./filter -e images/infile.bmp outfile.bmp
 ```
 
 
-CS50 filter project link:[CS50 filter](https://cs50.harvard.edu/x/2020/psets/4/filter/less/)
+CS50 Filter project link:[CS50 Filter 1](https://cs50.harvard.edu/x/2020/psets/4/filter/less/) [CS50 Filter 2](https://cs50.harvard.edu/x/2020/psets/4/filter/more/)
 
 
