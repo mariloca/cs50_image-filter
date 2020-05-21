@@ -17,7 +17,7 @@ Filtering an image is like taking the pixels of some original image and modifyin
 - *helpers.h: helper file provides function prototypes for the function I worked with. 
 - *Makefile: specifies what should happen when we run a terminal command. 
 - helpers.c: implementation of the functions declared in helpers.h.
-- * are files have been written by cs50.
+- *are files have been written by cs50.
 
 ### Installing
 Online C complier [CS50 IDE](https://ide.cs50.io/).
@@ -37,6 +37,6 @@ $./filter -e images/infile.bmp outfile.bmp
 ```
 
 
-CS50 filter project link:[CS50 filter](https://cs50.harvard.edu/x/2020/psets/4/filter/less/) (https://cs50.harvard.edu/x/2020/psets/4/filter/more/)
+CS50 filter project link:[CS50 filter](https://cs50.harvard.edu/x/2020/psets/4/filter/less/)
 
 
