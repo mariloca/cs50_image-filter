@@ -1,4 +1,5 @@
 # cs50_image filter
+<<<<<<< HEAD
 
 Image filtering: implement 5 filters to a image(.bmp). Filters are Grayscale('g'), Reflection('r'), Sepia('s'), Blur('b'), Edges('e'). Files in the folder: 
 *bmp.h : defines a struct called RGBTRIPLE which encapsulates three bytes: one blue, one green, one red. 
@@ -20,3 +21,5 @@ $./filter -e images/infile.bmp outfile.bmp
 CS50 filter link: 
 https://cs50.harvard.edu/x/2020/psets/4/filter/less/ 
 https://cs50.harvard.edu/x/2020/psets/4/filter/more/
+
+
