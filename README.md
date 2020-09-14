@@ -22,6 +22,7 @@ Filtering an image is like taking the pixels of some original image and modifyin
 
 ### Installing
 Run on [CS50 IDE](https://ide.cs50.io/).
+Log in with your github account.
 
 ### Implementation
 Compiling
