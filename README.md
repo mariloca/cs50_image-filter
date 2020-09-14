@@ -21,7 +21,7 @@ Filtering an image is like taking the pixels of some original image and modifyin
 - *are files have been written by cs50.
 
 ### Installing
-Online C complier [CS50 IDE](https://ide.cs50.io/).
+Run on [CS50 IDE](https://ide.cs50.io/).
 
 ### Implementation
 Compiling
